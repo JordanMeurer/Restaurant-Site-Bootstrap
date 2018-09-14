@@ -1,0 +1,96 @@
+header{
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    position: relative;
+}
+
+h1{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+label{
+    font-weight: bold;
+}
+
+noscript{
+    color: red;
+    font-weight: bold;
+}
+
+.home{
+    background-color: #fbf7f5;
+}
+
+.inputs{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+nav .btn{
+    background-color: lightblue;
+    color: #fef9ff;
+}
+
+a{
+    padding-right: 20px;
+}
+
+a:hover{
+    font-weight: bold;
+}
+
+a:visited{
+    color:blueviolet;
+}
+a:active{
+    text-decoration: none;
+}
+
+.row{
+        background-color: #f9f9f9;
+}
+
+table{
+    text-align: center;
+    border-collapse:collapse;
+    border-radius: 5px;
+    width: 50%;
+    float: none;
+    margin: 50px auto;
+}
+
+table.food th{
+    font-size: 25px;
+}
+
+.food{
+    background-color: #f9f9f9;
+}
+
+#beverages{
+    border: 1.2px solid grey;
+    width:50%;
+}
+
+#beverages th{
+    text-align: left;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.table-striped tr:nth-child(even){
+    background-color:lightgray;
+    padding: 8px;
+}
+
+#beverages td{
+    padding-right: 50px;
+    text-align: left;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
